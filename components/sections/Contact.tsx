@@ -33,7 +33,7 @@ export default function Contact() {
           </div>
 
           <h2 className="text-4xl font-bold leading-tight text-white md:text-6xl">
-            Let's Build
+            Let&apos;s Build
             <span className="block bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent">
               Intelligent Infrastructure
             </span>
