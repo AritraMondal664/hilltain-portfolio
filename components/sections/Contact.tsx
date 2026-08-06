@@ -40,7 +40,7 @@ export default function Contact() {
           </h2>
 
           <p className="mt-6 text-lg leading-8 text-gray-400">
-            Whether you're planning a BIM implementation, enterprise software,
+            Whether you&apos;re planning a BIM implementation, enterprise software,
             Information Technology solution, or digital transformation project,
             our team is ready to discuss your requirements.
           </p>
