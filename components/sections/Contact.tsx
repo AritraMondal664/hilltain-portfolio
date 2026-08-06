@@ -33,14 +33,14 @@ export default function Contact() {
           </div>
 
           <h2 className="text-4xl font-bold leading-tight text-white md:text-6xl">
-            Let's Build
+            Let&apos;s Build
             <span className="block bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent">
               Intelligent Infrastructure
             </span>
           </h2>
 
           <p className="mt-6 text-lg leading-8 text-gray-400">
-            Whether you're planning a BIM implementation, enterprise software,
+            Whether you&apos;re planning a BIM implementation, enterprise software,
             Information Technology solution, or digital transformation project,
             our team is ready to discuss your requirements.
           </p>
